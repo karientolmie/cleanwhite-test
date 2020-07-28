@@ -1,7 +1,7 @@
 ---
 layout:     post
-title:      "2 weeks in Ireland"
-subtitle:   ""
+title:      "Ireland, round 2."
+subtitle:   "Adventuring around Ireland for two weeks by foot, train, bus and a rental car."
 date:       2019
 author:     "twenty5up"
 published: true
@@ -11,15 +11,13 @@ tags:
     - Europe
 categories: [ Destinations ]
 ---
-# Ireland 2019
-
 ![alt text](/img/ireland/irelandcastle.jpg)
 
-At the time it had been 4 years since my last visit to Ireland, and 6 months since our trip to Thailand. As April holidays were nearing, and with the abundance of public holidays in South Africa as well as our limited passports, Ireland was high on the list. Ireland is one of the few places (excluding Northern Ireland) which us South Africans can travel to without having to go through a tedious and expensive visa application process.
+At the time it had been 4 years since my last visit to Ireland, and 6 months since our trip to Thailand. As April holidays were nearing, and with the abundance of public holidays in South Africa as well as our limited passports, Ireland was high on the list  Ireland is one of the few places (excluding Northern Ireland) which us South Africans can travel to without having to go through a tedious and expensive visa application process. See [travelstart](https://www.travelstart.co.za/lp/visa-free-countries) for some of the visa free destinations for South Africans.
 
 Back in 2015 I was able to do some work in Dublin, and create memories with my parents by traveling around the coast for about 10 days. I quickly fell in love with Ireland and continued to obsess over it for the years to come.
 
-Booking advice: Rather than booking all your accommodation at once or in the same place, just book the first few days. I am pro airbnb, and supporting locals is the way to truly experience a country. Not to say that a hotel every now and then can be a treat, enjoying some room service and all the perks does have its advantages. Also, creating a travel itinerary as a back-up to show passport control is recommended even if it is visa free.
+> Booking advice: Rather than booking all your accommodation at once or in the same place, just book the first few days. I am pro airbnb, and supporting locals is the way to truly experience a country. Not to say that a hotel every now and then can be a treat, enjoying some room service and all the perks does have its advantages. Also, creating a travel itinerary as a back-up to show passport control is recommended even if it is visa free.
 
 Great, moving on. In terms of what to pack? We went in August/September during 2015 and apparently it is the only time in the year they get sunshine but having gone in April the second time, we did experience a lot more rain (which I love).
 
@@ -33,9 +31,9 @@ Here are some quick packing tips that might help:
 * Toiletries, only pack essentials because you can buy that abroad rather than travelling with products that might leak.
 * When getting a travel case, be mindful of your way of traveling because the heavier your bag, the heavier your commute. We quickly learned that having a pull suitcase was not ideal when you’re trying to walk around Dublin, and running to try catch a train.
 
-> Airplane advice: I always pack a small skin care pack (face wipes, moisturizer, and some lip balm) just to keep you feeling fresh, and more lively after being cramped up for so long. Mints and bubblegum are key, as well as staying hydrated. We always take re-hydration sachets with, drink a lot of water, and regularly get up to walk. To add onto this, getting a sim card upon arrival is your first step in any country for making phone calls if necessary and the best app in the World, google maps. Unlike Thailand where no one spoke English, everything was a breeze in Ireland. We got our sim card, our Leap cards (all public transport) and were quickly on our way to our airbnb.
+> **Airplane advice** I always pack a small skin care pack (face wipes, moisturizer, and some lip balm) just to keep you feeling fresh, and more lively after being cramped up for so long. Mints and bubblegum are key, as well as staying hydrated. We always take re-hydration sachets with, drink a lot of water, and regularly get up to walk. To add onto this, getting a sim card upon arrival is your first step in any country for making phone calls if necessary and the best app in the World, google maps. Unlike Thailand where no one spoke English, everything was a breeze in Ireland. We got our sim card, our Leap cards (all public transport) and were quickly on our way to our airbnb.
 
-> Budget advice: While most of it is relevant and accommodation wise we felt satisfied with what we were paying. When it came to food, beverages, and entrance fees we were a bit shell shocked. Dublin is one of the most expensive cities I’ve traveled to but my advice would be to go to the local grocery store, get some snacks for breakfast rather than eating out three times a day. Unlike Thailand where we could eat out more regularly, shop (most days), Ireland might feel a bit restrictive but like I said, there is so much to see and ways around not having to spend a ridiculous amount of Euros on things like fine dining (unless you're into it).
+> **Budget advice** While most of it is relevant and accommodation wise we felt satisfied with what we were paying. When it came to food, beverages, and entrance fees we were a bit shell shocked. Dublin is one of the most expensive cities I’ve traveled to but my advice would be to go to the local grocery store, get some snacks for breakfast rather than eating out three times a day. Unlike Thailand where we could eat out more regularly, shop (most days), Ireland might feel a bit restrictive but like I said, there is so much to see and ways around not having to spend a ridiculous amount of Euros on things like fine dining (unless you're into it).
 
 ## D U B L I N
 
@@ -54,9 +52,9 @@ Things to do:
 * Jameson distillery, although expensive you can just sit at the bar and enjoy some unique drinks.
 * And of course a night out to a temple bar, and the surrounding pubs. Live **Irish music is everywhere!**
 
-Accommodation: [airbnb](https://www.airbnb.co.za/rooms/15695932?source_impression_id=p3_1594473714_0nCAIAaATvEkuM6r&guests=1&adults=1)
+**Accommodation:** [airbnb](https://www.airbnb.co.za/rooms/15695932?source_impression_id=p3_1594473714_0nCAIAaATvEkuM6r&guests=1&adults=1)
 
-Suggested time to stay there: 5 days
+**Suggested time to stay there:** 5 days
 
 ![alt text](/img/ireland/irishrepublic.jpg)
 
@@ -64,9 +62,9 @@ Suggested time to stay there: 5 days
 
 ##  S L I G O
 
-It was time to check out in Dublin, but being Easter weekend we didn’t think we would struggle so much with renting a car. Dragging our bags across Dublin, going back and forth between places just to find out that the only cars available to rent were way out of our price range. We then decided to catch the [Irish](https://www.irishrail.ie/) rail across the country to Dublin. Note that it is cheaper to buy the tickets online than at the station.
+It was time to check out in Dublin, but being Easter weekend we didn’t think we would struggle so much with renting a car. Dragging our bags across Dublin, going back and forth between places just to find out that the only cars available to rent were way out of our price range. We then decided to catch the [Irish](https://www.irishrail.ie/) rail across the country to Dublin.
 
-> Side note: Taxis & ubers were actually quite scarce, and sometimes you have to pre-order so you can end up waiting and in our case missing the early train.
+> **Note** that it is cheaper to buy the tickets online than at the station.Also,Taxis & ubers were actually quite scarce, and sometimes you have to pre-order so you can end up waiting and in our case missing the early train.
 
 Nonetheless, we made it to Sligo. The hotel was walking distance from the Train/Bus Station.
 
@@ -75,15 +73,15 @@ Things to do:
 * We wondered around, admired some of the great artwork all over Sligo, had a couple beers, and then stumbled upon [Hooked](https://hookedsligo.ie/), the best fish and chips we had in Ireland.
 * Grab breakfast at Knox
 * [The Queen Maeve trail](http://gostrandhill.com/explore/hikes-walks/queen-maeve-trail/) for some decent hiking, average intensity but so many great views so you can stop regularly to catch your breath if need be.
-* After the hike, grab some lunch at the beach - [Strandhill bar](http://www.thestrandbar.ie/)
+* After the hike, grab some lunch at the beach [Strandhill bar](http://www.thestrandbar.ie/)
 
-> Tip: Buy some water & snacks at the local grocery store before you start hiking as there are some breathtaking views at the top. There is one near the entrance of the trail.
+> **Tip** Buy some water and snacks at the local grocery store before you start hiking as there are some breathtaking views at the top. There is one near the entrance of the trail.
 
 Next up, Donegal! We were booking our airbnb, and planning our trip day to day. We booked our Bus Eireann tickets online, and our airbnb so we were ready to go to Donegal
 
-Accommodation: [Sligo City Hotel](Next up, Donegal! We were booking our airbnb, and planning our trip day to day. We booked our Bus Eireann tickets online, and our airbnb so we were ready to go to Donegal)
+**Accommodation:** [Sligo City Hotel](https://www.booking.com/hotel/ie/sligo-city.en.html?aid=311984;label=hotel-ie-40275-en-gU*2x4*XBWeZCZLZ34MmEQS267219297551:pl:ta:p1:p2:ac:ap:neg:fi:tiaud-898142578249:kwd-4093700327:lp1028745:li:dec:dm:ppccp=UmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo;ws=&gclid=CjwKCAjwmf_4BRABEiwAGhDfScb8V8SYs8XoeYB_6l-03ZxzqPJsQFTy23tx5UdyabZp7CPm4RHTLRoCH8UQAvD_BwE)
 
-Suggested time to stay there: 2 days
+**Suggested time to stay there:** 2 days
 
 ![alt text](/img/ireland/sligo.jpg)
 
@@ -104,9 +102,9 @@ Things to do:
 
 Back to Sligo we go, having rented a car online and for much cheaper than we would have got in in Dublin. Let the road trip commence!
 
-Accommodation: [airbnb](https://www.airbnb.co.za/rooms/14882493?source_impression_id=p3_1594473779_jddt3U%2FnheEDiGpx&guests=1&adults=1)
+**Accommodation:** [airbnb](https://www.airbnb.co.za/rooms/14882493?source_impression_id=p3_1594473779_jddt3U%2FnheEDiGpx&guests=1&adults=1)
 
-Suggested time to stay there: 2 days
+**Suggested time to stay there:** 2 days
 
 ![alt text](/img/ireland/slieveleauge.jpg)
 
@@ -123,9 +121,9 @@ Things to do:
 * Westport House & Hotel Westport (heritage site)
 * Matt Molloy’s
 
-Accommodation: [airbnb](https://www.airbnb.co.za/rooms/18735067?source_impression_id=p3_1594473824_7RPT2QZV3K543q%2Bk)
+**Accommodation:** [airbnb](https://www.airbnb.co.za/rooms/18735067?source_impression_id=p3_1594473824_7RPT2QZV3K543q%2Bk)
 
-Suggested time to stay there: 2 days
+**Suggested time to stay there:** 2 days
 
 ![alt text](/img/ireland/westport.jpg)
 
@@ -138,13 +136,12 @@ Suggested time to stay there: 2 days
 Next up Doolin, I fell in love with it back in 2015 so I couldn’t wait to go back. Before arriving, we stopped over in Galway to try out another favorite of mine from 2015 the [Dough Bros.](https://www.thedoughbros.ie/) Also, do try [Pascal coffee.](http://www.pascal.ie/) Make sure to drive through Connemara National Park. If I could buy a house in Ireland, it would be here.
 
 Things to do:
-
 * [Cliffs of moher](https://www.cliffsofmoher.ie/plan-your-visit/tickets-prices/)
 * [McGann's Pub](http://www.mcgannspubdoolin.com/)
 
-Accommodation: [Glasha Meadows B&B](http://www.mcgannspubdoolin.com/)
+**Accommodation:** [Glasha Meadows B&B](https://www.booking.com/hotel/ie/glasha-meadows.en-gb.html?aid=311984&label=glasha-meadows-DylcW8MR9Z2VAjZF8i6ZbgS173794207082%3Apl%3Ata%3Ap1%3Ap2%3Aac%3Aap%3Aneg%3Afi%3Atiaud-898142578249%3Akwd-32551627900%3Alp1028745%3Ali%3Adec%3Adm%3Appccp%3DUmFuZG9tSVYkc2RlIyh9YTQUGSsRwx9_3qo3uPTHyoo&sid=c3b76f5e2dd2e675f4d09340a432f85c&dest_id=-1502404&dest_type=city&group_adults=2&group_children=0&hapos=1&hpos=1&no_rooms=1&sr_order=popularity&srepoch=1595933363&srpvid=fbc04c1918e8028a&ucfs=1&from=searchresults;highlight_room=#hotelTmpl)
 
-Suggested time to stay there: 1 day
+**Suggested time to stay there:** 1 day
 
 ![alt text](/img/ireland/cliffsofmoher.JPG)
 
@@ -152,9 +149,9 @@ Suggested time to stay there: 1 day
 
 Making our way to good old Dingle, we stopped in Lahinch Beach for some amazing views. Ireland just kept showing off its beauty. In order to save some time, we took the [Shannon Ferry](https://www.shannonferries.com/?source=googleads&medium=hopkins&gclid=Cj0KCQjwgJv4BRCrARIsAB17JI6hLFTbhG3ktdrPhKGCYzjxpBDk6f58gfliaImU10vJrmA6YGw5rQUaAmS7EALw_wcB) to get to Dingle faster. Dingle is a picturesque town, with many great cafes such as [Bean in Dingle](http://www.beanindingle.com/) and a must is Murphy's ice cream. We bought some, and went to sit in the harbor to enjoy it
 
-Accommodation: [airbnb](https://www.airbnb.co.za/rooms/13430198?source_impression_id=p3_1594473977_5oJruYU1Mt1AIkOw&guests=1&adults=1)
+**Accommodation:** [airbnb](https://www.airbnb.co.za/rooms/13430198?source_impression_id=p3_1594473977_5oJruYU1Mt1AIkOw&guests=1&adults=1)
 
-Suggested time to stay there: 1 day
+**Suggested time to stay there:** 1 day
 > My least favorite, would not recommend but back in 2015 we stayed in a beautiful B&B which is no longer available, but [booking.com](http://booking.com/) has many options or try a different airbnb.
 
 ![alt text](/img/ireland/beanindingle.jpg)
@@ -172,9 +169,9 @@ Things to do:
 * Killkenny Castle
 * [Tapas at the Grape Vine](https://grapevinetapasbar.ie/)
 
-Accommodation: [airbnb](https://www.airbnb.co.za/rooms/27260018?source_impression_id=p3_1594474058_znmNbDzJDAo7Zj%2FX&guests=1&adults=1)
+**Accommodation:** [airbnb](https://www.airbnb.co.za/rooms/27260018?source_impression_id=p3_1594474058_znmNbDzJDAo7Zj%2FX&guests=1&adults=1)
 
-Suggested time to stay there: 1 day
+**Suggested time to stay there:** 1 day
 
 ![alt text](/img/ireland/mattthethreser.jpg)
 
@@ -184,9 +181,9 @@ Suggested time to stay there: 1 day
 
 I truly fell in love with this airbnb, and it’s location. We felt completely relaxed and comfortable with the home like airbnb. An ideal way to draw our Ireland adventure to an end.
 
-Accommodation: Sadly this is no longer available on airbnb.
+**Accommodation:** Sadly this is no longer available on airbnb.
 
-Suggested time to stay there: 1 day
+**Suggested time to stay there:** 1 day
 
 ![alt text](/img/ireland/quinn.jpg)
 
@@ -202,14 +199,14 @@ Accommodation:  [Maldron Hotel Dublin Airport](https://www.booking.com/hotel/ie/
 
 > More tips from my 2015 visit to Ireland:
 
-* [Burren Perfumery](https://burrenperfumery.com/)
-* Also, two scenic drives that will forever stay with me. One being the Ring of Kerry in the Killarney National Park and secondly Sky Road near in County Galway, we stayed in this beautiful place called Clifden.
-* [Dingle Dolphin Tour](https://www.dingledolphin.com/)
-* [Blarney Castle & Gardens](https://blarneycastle.ie/)
-* [Blarney Woolen Mills](https://www.blarney.com/blarneydirections/)
-* Guinness Storehouse in Dublin
-* Kilmainham Gaol
-* Rock of Cashel
-* Old Head of Kinsale - consider staying in Kinsale as well.
+> * [Burren Perfumery](https://burrenperfumery.com/)
+> * Also, two scenic drives that will forever stay with me. One being the Ring of Kerry in the Killarney National Park and secondly Sky Road near in County Galway, we stayed in this beautiful place called Clifden.
+> * [Dingle Dolphin Tour](https://www.dingledolphin.com/)
+> * [Blarney Castle & Gardens](https://blarneycastle.ie/)
+> * [Blarney Woolen Mills](https://www.blarney.com/blarneydirections/)
+> * Guinness Storehouse in Dublin
+> * Kilmainham Gaol
+> * Rock of Cashel
+> * Old Head of Kinsale - consider staying in Kinsale as well.
 
 ![alt text](/img/ireland/worldmap.JPG)
